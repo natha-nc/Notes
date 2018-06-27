@@ -1,2 +1,0 @@
-# Notes
-Created with CodeSandbox
